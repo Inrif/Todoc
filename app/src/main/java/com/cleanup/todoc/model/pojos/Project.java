@@ -43,7 +43,6 @@ public class Project {
 
     /**
      * Instantiates a new Project.
-     *
      * @param id    the unique identifier of the project to set
      * @param name  the name of the project to set
      * @param color the hex (ARGB) code of the color associated to the project to set
